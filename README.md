@@ -15,7 +15,7 @@
 
 ## Summary Statistics on Suspension Coils
 
-Below are the snapshot results of the manufactouring lot summary as well as the Summary by Manufacturing lot number. As visible the mean of each lot are similar to the population mean that resulted from performing the
+Below are the snapshot results of the manufactouring lot summary as well as the Summary by Manufacturing lot number. As visible the mean of each lot are similar to the population mean that resulted.
 
 
 <img width="432" alt="Screen Shot 2022-06-12 at 9 22 42 PM" src="https://user-images.githubusercontent.com/99001393/173268210-5d735051-b498-491f-ab65-a64487544393.png">
